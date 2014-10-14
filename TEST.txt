@@ -1,11 +1,7 @@
 ABCDEF
 
-<<<<<<< HEAD
 HIAAAJK
 
 JHH
 
 HHHH
-=======
-HIJK
->>>>>>> parent of 0ab1f07... HOHO
